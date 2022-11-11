@@ -1,0 +1,12 @@
+{
+    "livePreview.debugOnExternalPreview": false,
+    "livePreview.showServerStatusNotifications": false,
+    "livePreview.tasks.runTaskWithExternalPreview": false,
+    "cSpell.words": [
+        "APIKEY",
+        "Gifs",
+        "GIPHY",
+        "glassmorphism",
+        "VIRCUR"
+    ]
+}
