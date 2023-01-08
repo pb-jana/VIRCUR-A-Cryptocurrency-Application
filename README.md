@@ -35,7 +35,7 @@ After Signed In : Support Box / Query Box :
 ![image](https://user-images.githubusercontent.com/95628601/211203092-81394809-7144-4cca-9913-67562bd68e9b.png)
 
 
-Transaction Page :
+Make Transaction :
 
 ![image](https://user-images.githubusercontent.com/95628601/211203127-8f7a07e4-1d51-4f3f-9561-1a35d04c55e9.png)
 
